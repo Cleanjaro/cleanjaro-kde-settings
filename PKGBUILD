@@ -2,7 +2,7 @@
 
 pkgbase=cleanjaro-kde-settings
 pkgname=('cleanjaro-kde-settings')
-pkgver=20191024
+pkgver=20191102
 pkgrel=1
 pkgdesc="Cleanjaro Linux KDE settings"
 arch=('any')
