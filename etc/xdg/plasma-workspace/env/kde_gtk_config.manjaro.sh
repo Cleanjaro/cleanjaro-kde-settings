@@ -31,7 +31,7 @@ fi
 # Create "settings.ini" file if it doesn't exist
 if [ ! -e "$GTK3_THEME_RC" ]; then
   # Dark
-  if [ -e "$GTK3_DATADIR/Breeze-Dark/gtk-3.20/gtk.css" ] ; then
+  if [ -e "$GTK3_DATADIR/Breeze-Dark/gtk-3.0/gtk.css" ] ; then
     THEME="Breeze-Dark"
     ICON_THEME="breeze-dark"
   # else use Adwaita
